@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AutoHubPro/1.0.0": {
+        "runtime": {
+          "AutoHubPro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoHubPro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
